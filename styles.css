@@ -1,0 +1,57 @@
+.dog-description {
+    display: inline-block;
+    height: 100px;
+    width: 250px;
+}
+
+.page {
+    width: 320px;
+    box-shadow: 5px 5px gray;
+}
+
+.one-liner {
+    font-style: italic;
+    display: inline-block;
+    height: 50px;
+    width: 250px;
+}
+
+.text {
+    border-style: solid;
+    border-color: gray;
+    border-width: 2px;
+    padding: 3px;
+}
+
+.dog {
+    border-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    height: 200px;
+    width: 290px;
+    padding: 4px;
+}
+
+.card {
+    width: 300px;
+}
+
+.details {
+    font-weight: bold;
+}
+
+li {
+    list-style-type: none;
+}
+
+.animal-name {
+    border-style: none;
+    border-width: 10px;
+    padding: 10px;
+}
+
+.text-info {
+    border-style: none;
+    border-width: 10px;
+    padding: 10px;
+}
